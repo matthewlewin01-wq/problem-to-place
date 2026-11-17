@@ -1,17 +1,17 @@
-# geospatial-lens
+# problem-to-place
 An AI agent skill for identifying geospatial solution use cases embedded in a business issue
 
 # Overview
-The Geospatial Lens is an AI SKILL.md that provides an AI agent with instructions for identifying geospatial use cases embedded in a business issue. You describe a situation, drop in a link or upload a document, and it translates everyday business questions into a set of relevant "where" questions followed by a set of conceptual solution use cases.
+Problem to Place is an AI SKILL.md that provides an AI agent with instructions for identifying geospatial use cases embedded in a business issue. You describe a situation, drop in a link or upload a document, and it translates everyday business questions into a set of relevant "where" questions followed by a set of conceptual solution use cases.
 
 # What It Does
-The Geospatial Lens analyzes the business issue you provide and develops a short list of plain-English "where" questions.
+The skill analyzes the business issue you provide and develops a short list of plain-English "where" questions.
 Recommends the data, tools, and methods to answer each one.
 Proposes conceptual solution use cases to consider implementing.
 Suggests one clear next step to get started.
 
 # The Framework
-Every problem is viewed through four modes of analysis and six types of geographic contexts (the geographic lens):
+Every problem is viewed through four modes of analysis and six types of geographic contexts (the geographic lens matrix):
 For more information, review this article about the geospatial lens matrix: https://www.linkedin.com/pulse/geospatial-solution-canvas-simple-tool-translating-business-lewin
 
 Four modes of analysis:
@@ -62,7 +62,7 @@ Responses are short by design. Ask for depth whenever you want it.
 For a large or many-themed document, it will ask whether you want one overall analysis or a theme-by-theme breakdown.
 
 # Installation
-Download the geospatial-lens.zip file. Contained in the zip file is a SKILL.md describing the agent instructions, an asset folder with the geosaptial lens matrix (Excel file), and a resources folder containing the .md version of the geospatial lens matrix which the SKILL.md instructions refer to.
+Download the problem-to-place.zip file. Contained in the zip file is a SKILL.md describing the agent instructions, an asset folder with the geosaptial lens matrix (Excel file), and a resources folder containing the .md version of the geospatial lens matrix which the SKILL.md instructions refer to.
 Load the .zip file into your AI agent platform as a skill and use. 
 Enjoy!
 
