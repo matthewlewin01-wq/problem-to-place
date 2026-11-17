@@ -1,5 +1,5 @@
 # problem-to-place
-An AI agent skill for identifying geospatial solution use cases embedded in a business issue
+An AI agent skill for translating business problems into relevant geospatial solution use cases
 
 # Overview
 Problem to Place is an AI SKILL.md that provides an AI agent with instructions for identifying geospatial use cases embedded in a business issue. You describe a situation, drop in a link or upload a document, and it translates everyday business questions into a set of relevant "where" questions followed by a set of conceptual solution use cases.
